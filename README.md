@@ -1,1 +1,2 @@
-# ckd-prediction-missing-dataThis project that aims to research if machine learning model still make a reliable prediction when the patient information is missing for chronic kidney disease
+# ckd-prediction-missing-data
+This project aims to research whether a machine learning model can still makes a reliable prediction when patient information is missing for chronic kidney disease
